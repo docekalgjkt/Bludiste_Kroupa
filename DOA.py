@@ -12,7 +12,7 @@ class Bludiste:
         self.sirka = sirka
         self.vyska = vyska
         self.start = start
-        self.vychod = vychod
+        self.vychod  vychod
         self.mapa = mapa
         self.pozice = start
 
