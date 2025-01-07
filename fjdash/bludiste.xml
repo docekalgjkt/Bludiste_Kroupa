@@ -1,0 +1,32 @@
+<bludiste>
+    <sirka>4</sirka>
+    <vyska>4</vyska>
+    <start>0,0</start>
+    <vychod>3,3</vychod>
+    <mapa>
+        <radek>
+            <cell>0</cell>
+            <cell>1</cell>
+            <cell>0</cell>
+            <cell>0</cell>
+        </radek>
+        <radek>
+            <cell>0</cell>
+            <cell>1</cell>
+            <cell>0</cell>
+            <cell>1</cell>
+        </radek>
+        <radek>
+            <cell>0</cell>
+            <cell>0</cell>
+            <cell>0</cell>
+            <cell>1</cell>
+        </radek>
+        <radek>
+            <cell>1</cell>
+            <cell>1</cell>
+            <cell>0</cell>
+            <cell>E</cell>
+        </radek>
+    </mapa>
+</bludiste>
